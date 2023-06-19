@@ -1,0 +1,398 @@
+body{
+    background-color: #98c1d9;
+
+}
+.bg-light
+{
+    background-color: #B2DBDC!important;
+}
+.btn-primary {
+    background-color: #2B364B!important;
+    border-color: #2B364B!important;
+
+}
+.btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active {
+    color: #B2DBDC!important;
+    background-color: #B2DBDC!important;
+    border-color: #B2DBDC!important;
+}
+a{
+   color :#B2DBDC!important;
+}
+#portfolio .portfolio-item .portfolio-link .portfolio-hover {
+    background: rgba(0, 0, 0, .7)!important;
+}
+.modal-content
+{
+    background-color: #96AFC0!important;
+    height: 50%;
+    padding-top: 2.5%!important;
+    padding-bottom: 2.5%!important;
+
+}
+.modal-dialog{
+    padding-top: 2.5%!important;
+    padding-bottom: 2.5%!important;
+    margin:0 auto!important;
+    max-width: 65%!important;
+}
+
+#mainNav .navbar-brand {
+    text-shadow: black 0.1em 0.1em 0.2em;
+
+    color: #ffffff!important;
+}
+#portfolio .portfolio-item .portfolio-caption {
+    background-color: #96AFC0!important;
+    max-width: 500px!important;
+
+}
+h4, h2{
+    color: #333B50;
+}
+.text-muted {
+    color: #F8F3ED!important;
+}
+
+#services
+{
+    background-color: #E8D5C3!important;
+
+}
+
+.timeline:before {
+    background-color :#6b7586!important;
+}
+.timeline > li .timeline-image{
+    border: 7px solid #6b7586 !important;
+    background-color: #6b7586!important;
+
+}
+.Just
+{
+text-align: center;
+}
+
+.ProTitle
+{
+    color: #2B364B!important;
+}
+
+.text-primary {
+    color: #98c1d9 !important;
+}
+::selection {
+    color: #fff!important;
+    background: #3A2E29 !important;
+}
+  
+.btn-primary:active, .btn-primary:focus, .btn-primary:hover {
+    background-color: #B2DBDC !important;
+    border-color: #B2DBDC !important;
+    color : #3a2e29 !important;
+}
+
+#mainNav .navbar-toggler {
+    background-color: #B2DBDC!important;
+}
+a:hover a:focus a:active{
+    color : white!important;
+}
+#mainNav .navbar-nav .nav-item .nav-link.active, #mainNav .navbar-nav .nav-item .nav-link:hover {
+    color :#B2DBDC !important;
+    text-shadow: 0 0 0.2em #B2DBDC , 0 0 0.2em #B2DBDC ,0 0 0.2em #B2DBDC;
+}
+#mainNav .navbar-nav .nav-item .nav-link {
+    color: #fff!important;
+}
+.intro-text
+{
+    text-shadow: black 0.1em 0.1em 0.2em
+}
+
+.intro-text a
+{
+    color : white!important;
+    text-shadow: black 0em 0em 0em;
+    box-shadow:  black 0.1em 0.1em 0.2em;
+}
+.navbar-brand .js-scroll-trigger
+{
+    text-shadow: black 0.1em 0.1em 0.2em
+
+}
+@media (min-width: 768px){
+section {
+    padding: 80px 0!important;
+}}
+
+.SubServ{
+    color: #9C7E69;
+    text-align: justify;
+}
+i>p{
+    text-align: left;
+
+}
+.CheckCircle
+{
+
+    text-align: left;
+
+}
+.leCercle{
+    padding: 5px;
+
+}
+.leTexte
+{
+    padding-left: 35px;
+}
+.textComp
+{
+    display: block;
+    color: #2B364B;
+    padding-bottom: 1em;
+    
+}
+
+.service-heading
+{
+    padding-bottom: 1em;
+}
+
+.Interet
+{
+    padding-bottom :100px;
+    width: 100%;
+}
+
+@media (min-width: 1000px){
+.unInteret
+{
+    margin-left: 20%;
+
+}}
+.txtInteret
+{
+    padding-left: 50px;
+    display: inline-block;
+    vertical-align : middle;
+    text-align: left;
+    max-width: 530px;
+
+}
+.unInteret
+{
+    padding-top :50px;
+
+    display: flex;
+    text-align: center;
+}
+.rounded
+{
+    max-height: 200px!important;
+}
+
+p{
+    font-size:1rem;
+}
+.SousTitreCI
+{
+    font-size:1.75rem;
+}
+
+.lesIcons
+{
+    color: white!important;
+}
+.fondIcon:hover, .fondIcon:focus,.fondIcon:active
+{
+    color: white!important;
+}
+ul.social-buttons{
+    font-size: 30px;
+}
+ul.social-buttons li a:hover
+{
+    color: white;
+}
+.timeline-heading
+{
+    text-align: center;
+    vertical-align: center;
+}
+section#contact {
+    background-color:!important;
+    text-align: center;
+}
+@media (min-width: 1200px){
+     .timeline-panel {
+        padding: 40px 20px 20px 20px!important!important;
+    }}
+.progress {
+    display: inline-flex!important;
+    width: 35%!important;
+    background-color:#9C7E69 ;
+    margin-left: 15%;
+}
+.progress-bar
+{
+    background-color: #3a2e29;
+}
+.lesIcones
+{
+    text-align: center;
+    padding-top: 30px;
+}
+.lesIcones img
+{
+    max-height: 75px;
+    margin : 0px 15px 0px 15px;
+}
+header.masthead {
+    background-image: url("../assets/img/fond_portfolio.png")!important;
+    background-color: rgba(0, 0, 0, 0.7)!important;
+    background-attachment: fixed;
+
+}
+.ConTxt
+{
+padding-bottom: 0.5em ;
+    text-shadow: black 0.1em 0.1em 0.2em;
+}
+
+@media (min-width: 1200px) {
+     .timeline-panel {
+        padding: 20px 20px 20px 20px!important;
+    }
+}
+#sendMessageButton
+{
+    box-shadow: black 0.1em 0.1em 0.2em
+
+}
+#portfolio .portfolio-item {
+    margin-left: auto!important;
+    margin-right: auto!important;
+}
+.fixed-top {
+    width: 100vw;
+}
+.lesLignes
+{
+    padding-top : 2em;
+    padding-left: 7%;
+    padding-right: 7%;
+}
+.timeline-inverted .timeline-panel .timeline-body .Just
+  {
+      text-align: left!important;
+  }
+.timeline-inverted .timeline-panel .timeline-heading
+   {
+       text-align: left!important;
+   }
+
+ .timeline-panel .timeline-body .Just
+{
+    text-align: right!important;
+}
+ .timeline-panel .timeline-heading
+{
+    text-align: right!important;
+}
+
+ .ital
+ {
+     font-style: italic;
+ }
+ .Desc
+ {
+     text-align: left;
+ }
+ .Desc>a
+ {
+     font-weight: bold;
+     color : #3a2e29;
+ }
+ .Underl
+ {
+     text-decoration: underline ;
+ }
+ .STP
+ {
+     text-decoration: underline ;
+font-size: 1.15rem;
+ }
+ .carousel-item {
+      vertical-align:middle;
+    }
+ .carousel img {
+    max-height:50vh;
+    width:auto!important;
+    left:auto!important;
+    right:auto!important;
+    display :inline!important;
+    }
+    
+    .intro-heading
+    {
+        font-size :85px!important;
+    }
+    .intro-text
+    {
+        margin-right : 10%;
+    }
+
+#compétence{
+    background-color: #6b7586!important;
+}
+
+#apropos{
+    background-color: #465E7F!important;
+}
+
+#cv_btn {
+    background-color: #2B364B!important;
+    color: white!important;
+}
+#cv_btn:hover {
+  color: black!important;
+  background-color: #B2DBDC!important;
+  border-color: var(--bs-btn-hover-border-color);
+}
+
+#contact{
+    background-color: #233252!important;
+}
+
+#logo{
+    size: 60px;
+}
+
+#resize_timeline_img{
+    height: 100%!important;
+}
+
+#onysosImg{
+   margin-top: 50px;
+   
+}
+#ony{
+    background-color: whitesmoke!important;
+    border: 7px solid #6b7586 !important; 
+}
+
+#portofiloGrid{
+    height:360px!important;
+    width: 900px!important;
+}
+
+#colorPortofiloGrid{
+    background-color: #96AFC0 !important;
+}
+
+#portofiloGridItem{
+    height: 300px;
+}
